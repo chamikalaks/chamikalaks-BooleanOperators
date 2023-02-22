@@ -1,4 +1,4 @@
-import static org.junit.Assert.fail;
+
 
 /**
  * In order to make our programs even more impressive and interactive, we need to learn how to better leverage
@@ -55,11 +55,11 @@ public class Lab {
      * look into boolean operations to do this without using if/else statements.
      */
     public boolean returnOr(boolean b1, boolean b2){
-        if(b1 || b1== true){
+        if(b1 || b2== true){
             return true;}
             else{
               return false;}}}
     
-
+            
 
 
